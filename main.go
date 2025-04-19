@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/predasec/goAssessor/runner"
-	"github.com/predasec/goAssessor/utils"
+	"github.com/PredaSec/goAssessor/runner"
+	"github.com/PredaSec/goAssessor/utils"
 )
 
 func main() {

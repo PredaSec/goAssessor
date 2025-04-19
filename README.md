@@ -10,7 +10,7 @@ APIs used :
 ## Install
 ---
 ```bash
-go install github.com/predasec/goassessor@latest
+go install github.com/PredaSec/goAssessor@latest
 ```
 
 ## Usage

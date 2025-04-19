@@ -1,4 +1,4 @@
-module github.com/predasec/goAssessor
+module github.com/PredaSec/goAssessor
 
 go 1.24.0
 

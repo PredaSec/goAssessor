@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/predasec/goAssessor/runner"
+	"github.com/PredaSec/goAssessor/runner"
 	"github.com/olekukonko/tablewriter"
 )
 
